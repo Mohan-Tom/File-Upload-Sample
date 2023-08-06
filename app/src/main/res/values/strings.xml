@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File Upload</string>
+
+    <!--Foreground service notification -->
+    <string name="message_worker_notifications_channel_id" translatable="false">chat_message_syncer</string>
+    <string name="title_message_worker_notifications">Chat Alerts</string>
+    <string name="desc_message_worker_notifications">Getting new messages</string>
+</resources>
